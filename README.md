@@ -1,91 +1,106 @@
-# NGI – Nashery’s Global Initiative Website
+# Northern Holdings Nig. Ltd
 
-Welcome to the official repository for the **Nashery’s Global Initiative (NGI)** website. This project was created to empower individuals across the globe to engage in meaningful community work, with a focus on compassion, leadership, and sustainable development.
-
----
-
-## 🌍 About NGI
-
-**Nashery’s Global Initiative (NGI)** is a faith-driven, people-focused non-profit organization committed to building communities through education, volunteerism, and purpose-led service. With active members across Nigeria and beyond, NGI seeks to transform lives by equipping young people and adults with tools to make a difference.
+**Northern Holdings Nig. Ltd** is a diversified Nigerian holding company focused on building, scaling, and managing high-impact businesses across healthcare, technology, and emerging sectors. We create sustainable value by investing in solutions, people, and systems that address real-world challenges.
 
 ---
 
-## 🎯 Project Purpose
+## About Us
 
-The NGI website was developed to:
+Northern Holdings Nig. Ltd serves as the parent company overseeing a growing portfolio of sector-focused subsidiaries. Through strategic planning, disciplined execution, and long-term vision, we launch and support businesses designed to deliver measurable economic and social impact.
 
-- Serve as the digital hub for all NGI activities and resources
-- Facilitate easy registration for global volunteers and members
-- Provide structured orientation and access to the NGI Handbook
-- Promote NGI’s values, programs, and community stories
-- Create a channel of communication between NGI and the public
+Our approach combines innovation with structure, ensuring every venture is built to scale, endure, and create value.
 
 ---
 
-## 🚀 Features
+## Our Subsidiaries
 
-### 📘 Volunteer Handbook & Orientation
-Downloadable access to the official NGI Handbook and training materials for new volunteers. This helps new members understand the mission, expectations, and guidelines for contributing to NGI's work.
+### N-Medix Ltd (Healthcare)
 
-### 📝 Membership Registration
-A simple and accessible registration form for individuals interested in joining NGI as volunteers or active members across all chapters globally.
+N-Medix Ltd focuses on healthcare services, pharmaceutical retail, and medical solutions that improve access, efficiency, and quality of care.
 
-### 🧾 Auto ID Generation
-Each registered member receives a unique NGI ID number automatically, enhancing structure and identification across NGI chapters.
+**Flagship Operation**
 
-### 🎯 Mission & Vision Section
-A clear and bold presentation of NGI’s core principles:
-- **Transforming lives**
-- **Serving with faith and compassion**
-- **Building purposeful leaders**
-
-### 🖼️ Project Gallery
-A visual showcase of NGI’s programs, outreaches, events, and impact stories. This section helps donors, volunteers, and the public see NGI in action.
-
-### 📣 News & Updates
-Announcements about upcoming training, events, or ongoing programs to keep members and supporters informed and engaged.
-
-### 📱 Contact & Social Integration
-Direct WhatsApp contact, official email, and social media links are provided for inquiries, partnerships, or volunteer follow-up.
+* **Northern Medicine Store**
+  Location: Along Federal Teaching Hospital Katsina Road, Katsina
 
 ---
 
-## 🙌 Get Involved
+### N-Sphere Innovates Ltd (Technology)
 
-You can join the movement by:
-- Registering via the Membership Form on the website
-- Studying the NGI Handbook and becoming a trained volunteer
-- Participating in NGI programs in your local community
-- Sharing the initiative with friends, family, and networks
-- Providing feedback and ideas to improve our outreach
+N-Sphere Innovates Ltd delivers digital and technology-driven solutions for individuals, startups, and organizations.
 
----
+Core services include:
 
-## 📩 Contact
-
-For further information, collaboration, or support:
-
-- **Head of ICT, Innovation and Virtual Assistant Manager:** Isah Abdulsalam  
-- 📧 Email: nasherysglobalinitiative@gmail.com  
-- 📱 WhatsApp: +234 906 370 0385  
-- 🌍 Website: [https://ngi-weld.vercel.app](https://ngi-weld.vercel.app)  
-- 📸 Instagram: [@nasherys_global_initiative](https://www.instagram.com/nasherys_global_initiative)
+* Graphic Design
+* Content Creation (YouTube & Digital Media)
+* Video Editing
+* Web Development
+* Digital Strategy & Technology Solutions
 
 ---
 
-## 📝 License
+## Growth Model
 
-This project is open-source and licensed under the **MIT License**. You are free to use, share, and modify this work with credit to the original contributors.
+Northern Holdings Nig. Ltd operates a structured expansion strategy focused on disciplined growth.
 
----
+* One new business launch every January
+* Expansion plan spanning 2026–2030
+* Emphasis on scalability, sustainability, and strong governance
 
-## 🙏 Acknowledgments
-
-Special appreciation to:
-- NGI Executives, Coordinators, and Volunteers across all chapters
-- Contributors to this digital platform
-- Everyone supporting positive transformation in their community
+Each venture is carefully evaluated and aligned with the company’s long-term strategic objectives.
 
 ---
 
-> “Transforming lives through compassion, faith, and purpose.”
+## Vision
+
+To become a leading African holding company known for building resilient businesses that drive innovation, opportunity, and sustainable growth.
+
+---
+
+## Mission
+
+To strategically invest in and develop businesses that solve real problems, empower people, and create long-term value for stakeholders.
+
+---
+
+## Partnerships & Investment
+
+Northern Holdings Nig. Ltd is open to:
+
+* Strategic partnerships
+* Investment opportunities
+* Institutional collaborations
+* Healthcare and technology alliances
+
+We believe strong partnerships are essential for scale, innovation, and shared success.
+
+---
+
+## Core Values
+
+* Strategic Thinking
+* Accountability
+* Innovation
+* Sustainability
+* Excellence
+
+---
+
+## Digital Presence
+
+This repository contains the source code and digital assets for the official Northern Holdings Nig. Ltd website and related digital products.
+
+Deployment and updates are managed through GitHub-based workflows and modern cloud platforms.
+
+---
+
+## Contact
+
+**Northern Holdings Nig. Ltd**
+Email: northernholdingsnigltd@gmail.com
+Tell: 07088583110
+
+---
+
+© Northern Holdings Nig. Ltd. All rights reserved.
+
